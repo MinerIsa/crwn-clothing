@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crwn-clothing/static/css/main.d526a1ef.css",
-    "main.js": "/crwn-clothing/static/js/main.e5440e77.js",
+    "main.css": "/crwn-clothing/static/css/main.156014de.css",
+    "main.js": "/crwn-clothing/static/js/main.c3d424a6.js",
     "static/media/shopping-bag.svg": "/crwn-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
     "static/media/crown.svg": "/crwn-clothing/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
     "index.html": "/crwn-clothing/index.html",
-    "main.d526a1ef.css.map": "/crwn-clothing/static/css/main.d526a1ef.css.map",
-    "main.e5440e77.js.map": "/crwn-clothing/static/js/main.e5440e77.js.map"
+    "main.156014de.css.map": "/crwn-clothing/static/css/main.156014de.css.map",
+    "main.c3d424a6.js.map": "/crwn-clothing/static/js/main.c3d424a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d526a1ef.css",
-    "static/js/main.e5440e77.js"
+    "static/css/main.156014de.css",
+    "static/js/main.c3d424a6.js"
   ]
 }
